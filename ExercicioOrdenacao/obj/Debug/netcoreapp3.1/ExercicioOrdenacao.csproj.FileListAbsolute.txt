@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\bin\Debug\netcoreapp3.1\ExercicioOrdenacao.exe
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\bin\Debug\netcoreapp3.1\ExercicioOrdenacao.deps.json
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\bin\Debug\netcoreapp3.1\ExercicioOrdenacao.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\bin\Debug\netcoreapp3.1\ExercicioOrdenacao.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\bin\Debug\netcoreapp3.1\ExercicioOrdenacao.dll
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\bin\Debug\netcoreapp3.1\ExercicioOrdenacao.pdb
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\obj\Debug\netcoreapp3.1\ExercicioOrdenacao.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\obj\Debug\netcoreapp3.1\ExercicioOrdenacao.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\obj\Debug\netcoreapp3.1\ExercicioOrdenacao.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\obj\Debug\netcoreapp3.1\ExercicioOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\obj\Debug\netcoreapp3.1\ExercicioOrdenacao.dll
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\obj\Debug\netcoreapp3.1\ExercicioOrdenacao.pdb
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\Exercicio1\ExercicioOrdenacao\obj\Debug\netcoreapp3.1\ExercicioOrdenacao.genruntimeconfig.cache
