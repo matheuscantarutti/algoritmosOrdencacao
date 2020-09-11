@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\ADS\\2º semestre\\ETDD\\Exercicio1\\ExercicioOrdenacao\\OrdenacaoInsercao.csproj",
-      "projectName": "OrdenacaoInsercao",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\ADS\\2º semestre\\ETDD\\Exercicio1\\ExercicioOrdenacao\\OrdenacaoInsercao.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\ADS\\2º semestre\\ETDD\\Exercicio1\\OrdenacaoSelecao\\OrdenacaoSelecao.csproj",
+      "projectName": "OrdenacaoSelecao",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\ADS\\2º semestre\\ETDD\\Exercicio1\\OrdenacaoSelecao\\OrdenacaoSelecao.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\ADS\\2º semestre\\ETDD\\Exercicio1\\ExercicioOrdenacao\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\ADS\\2º semestre\\ETDD\\Exercicio1\\OrdenacaoSelecao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

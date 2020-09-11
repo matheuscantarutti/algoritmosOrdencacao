@@ -15,33 +15,11 @@ namespace ExercicioOrdenacao
 
             };
 
-            Selecao(produtos);
-            //Insercao(produtos);
+            
+            Insercao(produtos);
             Imprimir(produtos);
 
             Console.ReadKey();
-        }
-
-        private static void Selecao(Produto[] vetor)
-        {
-            for (int i = 0; i < vetor.Length; i++)
-            {
-                int indMenor = i;
-
-                for(int j = i + 1; j < vetor.Length; j++)
-                {
-                    if (vetor[j].Preco < vetor[indMenor].Preco)
-                    {
-                        indMenor = j;
-                    }
-                    if (i != indMenor)
-                    {
-                        
-                        vetor[i] = vetor[indMenor];
-                    }
-
-                }
-            }
         }
 
 
