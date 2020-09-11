@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\bin\Debug\netcoreapp3.1\bublesort.exe
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\bin\Debug\netcoreapp3.1\bublesort.deps.json
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\bin\Debug\netcoreapp3.1\bublesort.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\bin\Debug\netcoreapp3.1\bublesort.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\bin\Debug\netcoreapp3.1\bublesort.dll
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\bin\Debug\netcoreapp3.1\bublesort.pdb
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\obj\Debug\netcoreapp3.1\bublesort.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\obj\Debug\netcoreapp3.1\bublesort.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\obj\Debug\netcoreapp3.1\bublesort.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\obj\Debug\netcoreapp3.1\bublesort.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\obj\Debug\netcoreapp3.1\bublesort.dll
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\obj\Debug\netcoreapp3.1\bublesort.pdb
+C:\Users\mathe\OneDrive\Documentos\ADS\2º semestre\ETDD\bublesort\bublesort\bublesort\obj\Debug\netcoreapp3.1\bublesort.genruntimeconfig.cache
