@@ -34,17 +34,14 @@ namespace ExercicioOrdenacao
                     {
                         indMenor = j;
                     }
-                    if (i != indMenor)
-                    {
-                        var acc = vetor[i];
+                }
+                if (i != indMenor)
+                {
+                    var acc = vetor[i];
 
-                        vetor[i] = vetor[indMenor];
+                    vetor[i] = vetor[indMenor];
 
-                        vetor[indMenor] = acc;
-
-
-                    }
-
+                    vetor[indMenor] = acc
                 }
             }
         }
